@@ -18,3 +18,5 @@ test-results/
 
 # local development
 .env
+.vercel
+.heroku

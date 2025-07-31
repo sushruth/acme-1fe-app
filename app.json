@@ -1,5 +1,10 @@
 {
   "name": "1fe starter app",
   "description": "A sample 1fe app",
-  "keywords": ["1fe", "microfrontends", "micro", "frontend"]
+  "keywords": ["1fe", "microfrontends", "micro", "frontend"],
+  "env": {
+    "NODE_AUTH_TOKEN": {
+      "description": "TEMP - NPM Auth token"
+    }
+  }
 }

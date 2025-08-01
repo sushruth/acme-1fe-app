@@ -10,3 +10,5 @@ services:
         value: production
       - key: NODE_AUTH_TOKEN
         sync: false
+      - key: BUILD_NUMBER
+        sync: false
